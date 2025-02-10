@@ -133,7 +133,7 @@ const HomePage = () => {
                         >
                             Detect Now
                         </button>
-                        )};
+                        )}
                         
                     </div>
                 ))}
